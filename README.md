@@ -1,4 +1,4 @@
-# GODOT-CharacterBody-Skeleton-Template
+# Godot-CharacterBody-Skeleton-Template
 
 This utility consists of a template for creating a character inheriting from...
 
